@@ -7,5 +7,5 @@ Document-Level Event Argument Extraction With Self-Augmentation and a Cross-Doma
 Jian Liu\**(teacher), **Chen Liang\****, and Jinan Xu. Knowledge-Based Systems, 257, 109904 (KBS2022)
 
 ### Experience
-- master in Beijing Jiao Tong University. (2021.6-)
+- recommended postgraduate in Beijing Jiao Tong University. (2021.6-)
 - bachelor's degree in CSE from Beijing Jiao Tong University. (2017.9-2021.6)
