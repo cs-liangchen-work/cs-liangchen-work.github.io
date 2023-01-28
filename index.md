@@ -5,3 +5,7 @@ Hello! I am Liang Chen. I am currently a master of computer science and technolo
 
 Document-Level Event Argument Extraction With Self-Augmentation and a Cross-Domain Joint Training Mechanism  
 Jian Liu\**(teacher), **Chen Liang\****, and Jinan Xu. Knowledge-Based Systems, 257, 109904 (KBS2022)
+
+### Experience
+
+- 
