@@ -1,3 +1,4 @@
+[chinese](https://happyliangchen.github.io/)
 ### Get to know me
 Hello! I am Liang Chen. I am currently a master of computer science and technology at Beijing Jiaotong University. My research interests include deep learning, logic reasoning, information extraction (event extraction) and data augmentation.
 
